@@ -1,0 +1,54 @@
+body {
+	background-color: white;
+	margin: 0 auto;
+}
+.main-logo {
+	display: block;
+	margin: auto;
+	padding-top: 150px;
+}
+.search {
+	padding-top: 25px;
+	margin: auto;
+}
+.rq-form-element {
+	width: 500px;
+	height: 30px;
+	display: block;
+	margin: auto;
+}
+.container {
+	padding-top: 25px;
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	height: 100%;
+}
+.search-button:hover , .feeling-lucky:hover {
+	background-color: #F1F0EF;
+	color: black;
+	border: 1px solid #9C9C9C;
+}
+.search-button, .feeling-lucky {
+	font-size: 13px;
+	color: #5B5A5A;
+	background-color: #F1F0EF;
+	border: none;
+	text-align: center;
+	width: 130px;
+	height: 35px;
+}
+ul.header {
+	list-style-type: none;
+	width: 100%;
+}
+li{
+	list-style-type: none;
+}
+.About{
+	padding-top: 20px;
+}
+.Images {
+	float: right;
+	padding-right: 200px;
+}
